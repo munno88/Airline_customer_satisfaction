@@ -1,0 +1,3 @@
+select count(*) from airline_train
+
+SELECT * From airline_train
